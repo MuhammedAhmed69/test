@@ -33,6 +33,7 @@ if winner.lower == user.lower:
     print("congratulations you win")
 else:
     print(f"{winner} win you lose")
+print("good bye")
 
 
 
